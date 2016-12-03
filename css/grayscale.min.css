@@ -163,7 +163,7 @@ font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    background-image: "img/pics/1.jpg";
+    background-image: url(../img/pics/12.jpg); 
     -o-background-size: cover
 }
 
